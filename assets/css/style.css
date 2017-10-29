@@ -1,0 +1,97 @@
+.jumbotron{
+    background-color: rgba(166, 50, 243, 0.8)!important;
+    color: rgb(255, 255, 255)!important;
+    height: 200px  !important;
+    line-height: 200px !important;
+    margin-bottom: 15px !important;
+    vertical-align: middle !important;
+    padding-top: 10px !important;
+
+
+
+}
+
+body{
+    background-color: black;
+    background-image: url("../images/bg.jpg");
+    font-family: 'Press Start 2P', cursive !important;
+    
+
+
+}
+
+.jewelimages{
+    background-color: black;
+    
+}
+
+.thumbnail{
+
+   
+}
+
+.container-fluid{
+    width: 100% !important;
+
+}
+
+.btn{
+    width: 100% !important;
+    height: 100%;
+}
+
+
+#score{
+    color: black;
+}
+#buttonlabels{
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+
+}
+#magicnumberholder{
+    height: 50%;
+    background-color: rgb(250, 239, 160);
+    border-style: dashed rgb(255, 255, 255) 4px;
+}
+
+#losslabel, #winlabel{
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 139, 0.7);
+    text-shadow: 2px 2px black;
+    
+}
+#scoreholder{
+    color: rgba(255, 255, 255, 0.671) !important;
+    
+    
+}
+#score{
+    text-shadow: unset;
+    font-weight: bolder;
+}
+h1{
+    margin-top: 10px !important;
+    font-family: 'Skranji', cursive !important;
+    text-shadow: 5px 2px black;
+    color: white !important;
+    
+}
+
+h3{
+    font-size: 20px !important;
+    text-shadow: 2px 2px black;
+    
+}
+
+.wrapper{
+    width: 95%;
+    margin: 0 auto;
+    padding: 0px;
+}
+#magicnumber{
+
+}
