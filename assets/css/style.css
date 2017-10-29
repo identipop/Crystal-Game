@@ -25,10 +25,7 @@ body{
     
 }
 
-.thumbnail{
 
-   
-}
 
 .container-fluid{
     width: 100% !important;
@@ -91,7 +88,4 @@ h3{
     width: 100%;
     margin: 0 auto;
     padding: 0px;
-}
-#magicnumber{
-
 }
