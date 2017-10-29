@@ -25,7 +25,9 @@ body{
     
 }
 
-
+.thumbnail{
+    background-color: black;
+}
 
 .container-fluid{
     width: 100% !important;
